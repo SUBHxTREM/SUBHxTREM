@@ -17,13 +17,13 @@
           About Me
         </h2>
         
-        <a href="https://git.io/typing-svg">
+   <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E86C1&multiline=false&width=435&height=40&lines=Welcome+to+my+profile;I'm+Subhajit+AKA+Sunny;From+Assam,+India;20+y%2Fo;Love+to+Code;Learning+new+things;Click+below+to+know+more+.+.+." alt="Typing SVG" />
         </a>
+
+  <br/>
         
-        <br/>
-        
-        <div align="left">
+   <div align="left">
           <details>
             <summary><b>✨ Click to reveal details!</b></summary>
             <br/>
@@ -36,10 +36,8 @@
             </ul>
           </details>
         </div>
-
-      </td>
-      
-      <td valign="center" width="40%">
+    </td>
+            <td valign="center" width="40%">
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif">
       </td>
     </tr>
@@ -90,7 +88,7 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=SUBHxTREM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
     
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHxTREM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHxTREM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Languages" />
   </p>
   
   <p>
@@ -101,6 +99,11 @@
     <img src="https://komarev.com/ghpvc/?username=SUBHxTREM&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </p>
 </div>
+
+[![logo3](https://telegra.ph/file/61b9ba35d2bd93184cdcf.jpg)](https://github.com/SUBHxTREM)
+
+[![logo3](https://telegra.ph/file/b7c57698307f51d508adb.jpg)](https://github.com/SUBHxTREM)
+
 
 <hr/>
 <div align="center">
