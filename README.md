@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yo%20%20Subhajit here &fontSize=70&animation=fadeIn&fontAlignY=35&desc=AKA%20Sunny&descAlignY=60&descAlign=50" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yo%20%20Subhajit here &fontSize=70&animation=fadeIn&fontAlignY=35&desc=AKA%20Sunny&descAlignY=60&descAlign=50" width="100%" alt="Header" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Loves+to+Code;Learning+New+Languages;Coding+the+Future;Designing+Experiences;Learning+Every+Day" alt="Typing SVG" />
@@ -17,13 +17,13 @@
           About Me
         </h2>
         
-  <a href="https://git.io/typing-svg">
+        <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E86C1&multiline=false&width=435&height=40&lines=Welcome+to+my+profile;I'm+Subhajit+AKA+Sunny;From+Assam,+India;20+y%2Fo;Love+to+Code;Learning+new+things;Click+below+to+know+more+.+.+." alt="Typing SVG" />
         </a>
         
-   <br/>
+        <br/>
         
-  <div align="left">
+        <div align="left">
           <details>
             <summary><b>✨ Click to reveal details!</b></summary>
             <br/>
@@ -37,9 +37,9 @@
           </details>
         </div>
 
-   </td>
+      </td>
       
-  <td valign="center" width="40%">
+      <td valign="center" width="40%">
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif">
       </td>
     </tr>
@@ -54,7 +54,7 @@
   
   <br>
    
-  <a href="https://github.com/SUBHxTREM">
+  <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   
@@ -62,11 +62,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="https://instagram.com/__subhxd__">
+  <a href="https://instagram.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   
-  <a href="https://t.me/SUBHxTREM">
+  <a href="https://t.me/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   
@@ -84,13 +84,13 @@
 
 <br/>
 <div align="center">
-  <h2>📊 My GitHub Stats</h2>
+  <h2>📊 Subhajit's GitHub Stats</h2>
   <br>
   
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=SUBHxTREM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHxTREM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHxTREM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Languages" />
   </p>
   
   <p>
@@ -101,11 +101,6 @@
     <img src="https://komarev.com/ghpvc/?username=SUBHxTREM&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </p>
 </div>
-
-
-[![logo3](https://telegra.ph/file/61b9ba35d2bd93184cdcf.jpg)](https://github.com/SUBHxTREM)
-
-[![logo3](https://telegra.ph/file/b7c57698307f51d508adb.jpg)](https://github.com/SUBHxTREM)
 
 <hr/>
 <div align="center">
