@@ -83,21 +83,20 @@
 
 <br/>
 <div align="center">
-  <h2>📊 Subhajit's GitHub Stats</h2>
+  <div align="center">
+  <h2>📊 My GitHub Stats</h2>
   <br>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=SUBHxTREM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHxTREM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SUBHxTREM&show_icons=true&hide_border=true" alt="Stats" />
   </p>
   
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUBHxTREM&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHxTREM&layout=compact&hide_border=true" alt="Languages" />
   </p>
-  
+
   <p>
-    <img src="https://komarev.com/ghpvc/?username=SUBHxTREM&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUBHxTREM&hide_border=true" alt="Streak" />
   </p>
 </div>
 
