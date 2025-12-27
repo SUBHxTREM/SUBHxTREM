@@ -1,9 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yo%20Subhajit%20Here&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AKA%20Sunny&descAlignY=60&descAlign=50" width="100%" alt="Header" />
-</div>
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="middle" style="padding-right: 10px;">
+        <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/71129596?s=400&u=3526f6953979f98766fbd8232187ee21d11baffd&v=4&h=130&w=130&fit=cover&mask=circle" alt="Subhajit Logo">
+      </td>
+
+  <td valign="middle">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Yo%20Subhajit%20Here&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AKA%20Sunny&descAlignY=65&descAlign=50" alt="Header Text" />
+      </td>
+    </tr>
+  </table>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Loves+to+Code;Learning+New+Languages;Coding+the+Future;Designing+Experiences;Learning+Every+Day" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=From+Assam,+India;Loves+to+Code;Learning+New+Languages;AKA+Sunny" alt="Typing SVG" />
   </a>
 </div>
 
