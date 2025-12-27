@@ -54,7 +54,7 @@
   
   <br>
    
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/SUBHxTREM">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   
@@ -62,11 +62,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/__subhxd__">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   
-  <a href="https://t.me/YOUR_USERNAME">
+  <a href="https://t.me/SUBHxTREM">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   
