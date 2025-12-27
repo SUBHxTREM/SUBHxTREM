@@ -84,7 +84,7 @@
 
 <br/>
 <div align="center">
-  <h2>📊 Subhajit's GitHub Stats</h2>
+  <h2>📊 My GitHub Stats</h2>
   <br>
   
   <p>
